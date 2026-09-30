@@ -33,6 +33,6 @@ I'm currently focused on building practical software products that combine **AI,
 
 ## 📫 Connect
 
-- 🌐 Portfolio — sarthakatkare.vercel.app
+- 🌐 Portfolio — [sarthakatkare.vercel.app](https://sarthakatkare.vercel.app/)
 - 💼 LinkedIn — www.linkedin.com/in/sarthak-atkare
 - 📧 Email — sarthakatkare20@gmail.com
